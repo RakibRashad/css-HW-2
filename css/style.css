@@ -1,0 +1,441 @@
+
+.card {
+    
+    background-image: url(../img/w.d..webp);
+    background-size:cover;
+    background-position: left;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.452);
+    color:rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.card h1 {
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align: center;
+    color:cyan;
+}
+.card p {
+    font-family: 'Aboreto', cursive;
+font-family: 'Alumni Sans Inline One', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.card a {
+    color: rgb(255, 255, 255);
+     background-color: rgb(6, 133, 17); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.card a:hover{
+    background-color: rgb(243, 8, 8);
+    padding:15px 50px ;
+    color: black;
+}
+.card1 {
+    background-image: url(../img/contactBG.png);
+    background-size:cover;
+    background-position: center;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.452);
+    color:rgb(255, 255, 255);
+    width: 300px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.card1 h1 {
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align: center;
+    color:rgb(12, 218, 46);
+}
+.card1 p {
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.card1 a {
+    color: rgb(255, 255, 255);
+     background-color: rgb(6, 133, 17); 
+     text-decoration: none;
+     padding: 15px 10px;
+     border-radius: 10px;
+    transition: 0.3s;
+}
+.card1 a:hover{
+    background-color: rgb(19, 18, 18);
+    padding:15px 50px ;
+    color:aqua;  
+}  
+
+
+.card2 {
+    background-image: url(../img/images.jfif);
+    background-size:cover;
+    background-position: right;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0);
+    color:rgb(0, 0, 0);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+    
+    
+}
+.card2 h1 {
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align:left;
+    text-decoration: underline;
+    color:rgb(31, 5, 146);
+}
+.card2 p {
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.card2 a {
+    color: rgb(0, 133, 173);
+     background-color: rgb(133, 6, 6); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     
+    transition: 0.3s;
+}
+.card2 a:hover{
+    background-color: rgb(10, 70, 3);
+    padding:15px 50px ;
+    color: rgb(0, 0, 0);
+}
+.card3 {
+    
+    background-image: url(../img/images\ \(1\).png);
+    background-size:cover;
+    background-position: center;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.308);
+    color:rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.card3 h1 {
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align:left;
+    text-decoration: underline;
+    color:rgb(13, 221, 30);
+}
+.card3 p {
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.card3 a {
+    color: rgb(105, 253, 19);
+     background-color: rgb(133, 6, 6); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.card3 a:hover{
+    background-color: rgb(10, 70, 3);
+    padding:15px 50px ;
+    color: rgb(0, 0, 0);
+}
+
+.card4 {
+    
+    background-image:linear-gradient(
+        #23074d,#cc5333);
+    background-size:cover;
+    background-position: right;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.548);
+    color:rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.card4 h1 {
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align:left;
+    text-decoration: underline;
+    color:rgb(236, 227, 227);
+}
+.card4 p {
+    
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.card4 a {
+    color: rgb(5, 7, 173);
+     background-color: rgb(133, 6, 6); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.card4 a:hover{
+    background-color: rgb(165, 255, 155);
+    padding:15px 50px ;
+    color: rgb(173, 1, 1);
+}
+
+.card5 {
+    
+    background-image:linear-gradient(
+       #00F260 ,#0575E6);
+    background-size:cover;
+    background-position: right;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.548);
+    color:rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.card5 h1 {
+    
+    font-family: 'Aboreto', cursive;
+font-family: 'Alumni Sans Inline One', cursive;
+font-family: 'Rubik Iso', cursive;
+    font-size: 30px;
+    margin: 20px 30px;
+    text-align:left;
+    text-decoration: underline;
+    color:rgb(236, 227, 227);
+}
+.card5 p {
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.card5 a {
+    color: rgb(74, 77, 250);
+     background-color: rgb(4, 207, 48); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.card5 a:hover{
+    background-color: rgb(7, 7, 7);
+    padding:15px 50px ;
+    color: rgb(130, 247, 255);
+    text-align: center;
+}
+
+.card6{
+    display: inline-block;
+    background-image:linear-gradient(#1a2a6c,#b21f1f,#fdbb2d);
+    background-size:contain;
+    background-position: left;
+    background-blend-mode:screen;
+    background-color: rgba(0, 0, 0, 0.548);
+    color:rgb(0, 0, 0);
+    width: 400px;
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 5%;
+    text-align: justify;
+    
+}
+
+.card6 h1 {
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px 30px;
+    text-align:center;
+    text-decoration:none;
+    color:rgb(131, 216, 231);
+}
+.card6 p {
+    display: inline-block;
+    font-family: 'Aboreto', cursive;
+font-family: 'Alumni Sans Inline One', cursive;
+font-family: 'Rubik Iso', cursive;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.card6 a {
+    display: inline-block;
+    color: rgb(74, 77, 250);
+     background-color: rgb(0, 0, 0); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.card6 a:hover{
+    background-color: rgb(255, 251, 251);
+    padding:15px 50px ;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.jv {
+    display: inline-block;
+    background-image: url(../img/images.jpg);
+    background-size:cover;
+    background-position: left;
+    background-blend-mode:multiply;
+    background-color: rgba(0, 0, 0, 0.452);
+    color:rgb(255, 255, 255);
+    width: 400px;
+    padding: 20px;
+    border-radius: 5%;
+    text-align: justify;
+    margin: 50px auto;
+}
+.jv h1 {
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align: center;
+    color:cyan;
+}
+.jv {
+    display: inline-block;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+.jv a {
+    display: inline-block;
+    color: rgb(26, 85, 11);
+     background-color: rgb(255, 255, 255); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.jv a:hover{
+    background-color: rgb(53, 47, 143);
+    padding:15px 50px ;
+    color: rgb(238, 230, 230);
+}
+
+ .t {
+    color:rgb(2, 3, 10);
+    width: 400px;
+    
+    padding: 20px;
+    border:dotted ;
+    border-width: 5px;
+    text-align: center;
+    margin: 50px auto;
+}
+.t h1 {
+    
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align: center;
+    color:cyan;
+}
+.t p{
+    color: rgb(45, 7, 150);
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify
+
+}
+.t a {
+    
+    color: rgb(255, 255, 255);
+     background-color: rgb(167, 11, 11); 
+     text-decoration: none;
+     padding: 15px 10px 15px 10px;
+     border-radius: 10px;
+     display:inline-block;
+    transition: 0.3s;
+}
+.t a:hover{
+    background-color: rgb(243, 8, 8);
+    padding:15px 50px ;
+    color: rgb(9, 126, 34);
+}
+
+.b {
+    color:rgb(3, 128, 44);
+    width: 400px;
+    border-radius:400px ;
+    padding: 100px 40px;
+    border:dashed ;
+    border-width: 5px;
+    text-align: center;
+    margin: 50px auto;
+    
+}
+.b h1 {
+    
+    font-size: 30px;
+    margin: 20px 15px 20px 15px;
+    text-align: center;
+    color:rgb(4, 5, 5);
+}
+.b p {
+    
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color:rgb(255, 83, 83);
+
+}
+.b a {
+     padding: 15px 10px 15px 10px;
+     border-radius: 50px;
+     text-decoration:double ;
+    transition: 0.3s;
+}
+.b a:hover{
+    background-color: rgb(243, 8, 8);
+    padding:15px 50px ;
+    color: rgb(9, 126, 34);
+}
+
+
